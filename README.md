@@ -1,2 +1,2 @@
-# serviç.osgerais
+# serviçosgerais
 serviços gerais jardinagens e muito mais 
